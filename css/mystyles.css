@@ -1,0 +1,16 @@
+body{
+    font-family: fantasy;
+}
+.site-heading-lower{
+    font-family: fantasy;
+}
+.mb-3{
+    font-family: fantasy;
+    color: green !important;
+}
+.notyellow{
+    color: black !important;
+}
+.intro-text{
+    box-shadow: 15px 15px 20px rgba(0, 0, 0,0.5);
+}

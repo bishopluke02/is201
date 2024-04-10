@@ -1,0 +1,49 @@
+body {
+    background-color: rgb(226, 226, 157);
+    color: black;
+    /*text color*/
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    font-family: cursive;
+    text-align: center;
+}
+
+h5 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+
+a {
+    color: brown;
+}
+
+a:visited {
+    color: darkgray;
+}
+
+img {
+    border: 2px solid fuchsia;
+    padding: 3px;
+    margin: 5px;
+    display: block;
+    /*centers stuff*/
+    margin: auto;
+    /*centers stuff*/
+}
+
+.rizz {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: gold;
+    background-color: purple;
+    border: dashed white 5px;
+    font-style: italic;
+
+}
+/*positioning styles*/
+.common{
+    position: absolute;
+    border: 5px solid black;
+    background-color: blanchedalmond;
+}
