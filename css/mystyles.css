@@ -1,12 +1,12 @@
 body{
-    font-family: fantasy;
+    font-family: cursive;
 }
 .site-heading-lower{
-    font-family: fantasy;
+    font-family: cursive;
 }
 .mb-3{
-    font-family: fantasy;
-    color: green !important;
+    font-family: cursive;
+    color: rgb(246, 252, 246) !important;
 }
 .notyellow{
     color: black !important;
